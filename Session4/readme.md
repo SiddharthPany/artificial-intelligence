@@ -10,7 +10,7 @@
 
 - Added **DropOuts**  this increased the accuracy to **99.37**
 
-###Solution4
+### Solution4
 
 - Added **LearningRateScheduler** to change learning rate as no of epochs changes this increases the accuracy to **99.48.**
 
